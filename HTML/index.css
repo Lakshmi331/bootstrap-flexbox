@@ -1,0 +1,15 @@
+.container {
+    background-color: skyblue;
+    width:100%;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+}
+.child-container {
+    background-color: royalblue;
+    width:30%;
+    margin: 10px;
+    padding: 10px;
+    width:20%;
+    
+}
